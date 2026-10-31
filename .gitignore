@@ -1,0 +1,10 @@
+node_modules/
+.env
+/api/coverage/
+/web/coverage/
+/web/playwright-report/
+/web/test-results/
+/web/dist/
+/testsprite_tests/tmp/
+/api/*.log
+/web/*.log
